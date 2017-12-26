@@ -1,2 +1,2 @@
 # datacamp
-Annotations of courses the (datacamp)[http://datacamp.com/]
+Annotations of courses the [datacamp](http://datacamp.com/)
